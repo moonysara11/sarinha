@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
+    --vermelho: hsl(7, 83%, 48%);
 }
 
 body {
@@ -57,7 +57,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--laranja-claro);
+    background-color: var(--vermelho);
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -73,13 +73,13 @@ section {
 }
 
 
-#tropicalia {
+#Rita Lee {
     position: relative;
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
+    background: url('img/stardireita.png') top right no-repeat,
+        url('img/staresquerda.png') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -107,7 +107,7 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('img/fundo.png') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
