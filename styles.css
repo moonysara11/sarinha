@@ -107,7 +107,7 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/fundo.png') bottom right no-repeat;
+    background: url() bottom right no-repeat;
     background-size: 180px 180px;
 }
 
