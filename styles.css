@@ -78,8 +78,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/stardireita.png') top right no-repeat,
-        url('img/staresquerda.png') bottom left no-repeat;
+    background: url('img/stardireita.png,)
+        url('img/staresquerda.png);
     background-size: 200px 200px;
     /* Ajuste o tamanho conforme necessário */
 }
