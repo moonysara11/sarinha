@@ -80,6 +80,7 @@ section {
     margin-bottom: 3rem;
     background: url('img/stardireita.png,)
         url('img/staresquerda.png);
+        background-color:blueviolet
     background-size: 200px 200px;
     /* Ajuste o tamanho conforme necessário */
 }
