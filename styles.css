@@ -76,12 +76,12 @@ section {
 #Rita Lee {
     position: relative;
     padding-top: 5rem;
-    margin-top: 3rem;
-    margin-bottom: 3rem;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
     background: url('img/stardireita.png,)
         url('img/staresquerda.png);
         background-color:blueviolet
-    background-size: 200px 200px;
+    background-size: 250px 250px;
     /* Ajuste o tamanho conforme necessário */
 }
 
